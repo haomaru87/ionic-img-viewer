@@ -22,7 +22,7 @@
     "rewriteTsconfig": false
   },
   "files": [
-    "ionic-img-viewer.ts",
+    "dist/src/ionic-img-viewer.ts",
     "src/image-viewer.ts",
     "src/image-viewer.component.ts",
     "src/image-viewer.directive.ts",
